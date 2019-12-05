@@ -1,4 +1,4 @@
-# testing-vue-router
+# Composition API Demo
 
 ## Project setup
 ```
